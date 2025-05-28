@@ -72,7 +72,7 @@
 ## 설치 및 실행 방법
 ### 프로젝트 클론
 ```bash
-git clone https://github.com/YOUNGEUN100/react-wedding-card.git
+git clone git@github.com:stardino2/wedding-card.git
 ```
 ### 프로젝트 디렉토리로 이동
 ```bash
